@@ -9,6 +9,7 @@ size = Vector2(77, 106)
 
 [node name="Card" type="Area2D" groups=["cards"]]
 script = ExtResource("1_s6jfy")
+metadata/_edit_group_ = true
 
 [node name="FaceSprite" type="Sprite2D" parent="."]
 scale = Vector2(0.1, 0.1)
